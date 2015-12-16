@@ -7,9 +7,21 @@
 
 #### Product Design
 
+Tech Stack
+
+- Node.js/Express
+- Angular
+- MongoDB/Mongoose/Mongolabs
+- App Hosting TBD (Heroku for proof of concept)
+- Visualization: D3.js, Chart.js
+
 - [ ] Complete PRESS-RELEASE.md
 
 ### Project Infrastructure
+
+#### Setting up the Repo
+
+- [ ] Diagram our file structure
 
 #### Documentation
 
